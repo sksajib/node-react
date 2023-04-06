@@ -1,0 +1,27 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "A node js api",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodeapi"
+  },
+  "keywords": [
+    "Api"
+  ],
+  "author": "SAJIB SAHA",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^5.3.1",
+    "mongoose": "^7.0.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}

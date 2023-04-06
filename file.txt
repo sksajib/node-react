@@ -1,0 +1,13 @@
+a. asynchronous programming
+b. node js single threaded non blocking i/o model
+c. even though it is single threaded ,it is efficient because it uses non locking event loop and
+d. It keeps the event in a stack
+e. they will be executed one by one without waiting for any one of theseto complete.
+f. instead they will be executed and completed as the process is running other callbacks 
+
+
+Secretes of understanding NODE.js
+1. Javascript environment browser/server
+2.Understanding functions/callback functions
+3. Event loop
+4. Asynchronous (non-blocking) vs synchronous(block)
