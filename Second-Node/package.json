@@ -1,0 +1,20 @@
+{
+  "name": "second-node",
+  "version": "1.0.0",
+  "description": "replica",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Sajib Saha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mongoose": "^7.0.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}
